@@ -26,6 +26,10 @@ body {
       flex-direction: column;
       align-items: center;
       gap: 2rem; }
+      .hero-section aside nav a {
+        text-decoration: none; }
+        .hero-section aside nav a svg path {
+          fill: white; }
   .hero-section .hero-content {
     position: relative;
     display: flex;

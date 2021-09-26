@@ -34,6 +34,15 @@ body {
       flex-direction: column;
       align-items: center;
       gap: 2rem;
+
+      a {
+        text-decoration: none;
+        svg {
+          path {
+            fill: white;
+          }
+        }
+      }
     }
   }
 
